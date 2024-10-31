@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post2epub\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-19 03:34-0600\n"
+"PO-Revision-Date: 2011-04-19 03:34-0600\n"
+"Last-Translator: Eduardo Morales <meduardo01@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Bookmarks: 1,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\Program Files\\xampp\\htdocs\\desarrollo\\wp-content\\plugins\\Post2epub\n"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:46
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:90
+msgid "Post 2 epub"
+msgstr "Post 2 epub"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:47
+msgid "Crear"
+msgstr "Create"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:48
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:96
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:564
+msgid "Opciones"
+msgstr "Options"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:93
+msgid "Nombre de la publicaci&oacute;n"
+msgstr "Publication name"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:94
+msgid "Fecha de creaci&oacute;n"
+msgstr "Creation date"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:95
+msgid "Ruta de acceso"
+msgstr "Path"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:110
+msgid "Eliminar"
+msgstr "Delete"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:135
+msgid "El archivo se borro correctamente"
+msgstr "This file is removed correctly"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:140
+msgid "Error: El archivo especificado no se pudo borrar"
+msgstr "Error: The file could not be deleted"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:173
+msgid "Selecciona una categor&iacute;a, manten tecla Ctrl presionada para seleccionar varias categor&iacute;as"
+msgstr "Select a category, hold down Ctrl key to select multiple categories"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:174
+msgid "Categor&iacute;a"
+msgstr "Category"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:196
+msgid "Selecciona una etiqueta, manten tecla Ctrl presionada para seleccionar varias etiquetas"
+msgstr "Select a tag, hold down Ctrl key to select multiple tags"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:197
+msgid "Etiqueta"
+msgstr "Tags"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:204
+msgid "Crear Archivo"
+msgstr "Create file"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:207
+msgid "Filtro de entradas"
+msgstr "Post filter"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:211
+msgid "Listado de entradas"
+msgstr "Post list"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:214
+msgid "Aqu&iacute; se muestra las entradas filtradas por categor&iacute;(s) y etiqueta(s)"
+msgstr "Entries are shown here filtered by categories and tags"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:215
+msgid "Entradas"
+msgstr "Entries"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:219
+msgid "Listado de entradas que conformar&aacute;n el archivo"
+msgstr "List of entries that make up the file"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:221
+msgid "Entradas Post 2 epub"
+msgstr "Post 2 epub entries"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:231
+msgid "Datos de la edici&oacute;n"
+msgstr "Publication data"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:237
+msgid "Campo obligatorio"
+msgstr "Required field"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:237
+msgid "Nombre del archivo"
+msgstr "File name"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:241
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:468
+msgid "Portada"
+msgstr "Cover"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:243
+msgid "Agregar imagen"
+msgstr "Add image"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:246
+msgid "Parametro opcional (por ejemplo: ISBN)"
+msgstr "Optional parameter eg ISBN"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:246
+msgid "Identificador &uacute;nico"
+msgstr "Unique Identifier"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:250
+msgid "Generar edici&oacute;n"
+msgstr "Create publication"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:255
+msgid "Mensaje"
+msgstr "Message"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:426
+msgid "Tu lector no puede reproducir video"
+msgstr "Your reader can not play video"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:512
+msgid "El archivo se ha generado correctamente"
+msgstr "The file has been generated successfully"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:517
+msgid "Error: El archivo no pudo ser creado asegurate de tener permisos de lectura y escritura en la carpeta "
+msgstr "Error: The file could not be sure you have set read and write permissions on the folder"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:524
+msgid "Error: No hay registros correspondientes con los datos seleccionados"
+msgstr "Error: No records for the selected data"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:530
+msgid "Error: La secci&oacute;n de entradas no contiene registros"
+msgstr "Error: The entries list contains no records"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:569
+msgid "Nombre del directorio en donde se guardaran las ediciones creadas"
+msgstr "Name of the directory where you save your publications"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:570
+msgid "Directorio de ediciones"
+msgstr "Directory editions"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:577
+msgid "Compatibilidad de videos solo en iBooks"
+msgstr "Compatibility videos only iBooks"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:578
+msgid "Campo personalizado para videos"
+msgstr "Custom field for video"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:584
+msgid "Guardar"
+msgstr "Save"
+
+#: C:\Program
+#: Files\xampp\htdocs\desarrollo\wp-content\plugins\Post2epub/post2epub.php:616
+msgid "Los cambios se han guardado correctamente"
+msgstr "Changes have been successfully saved"
+
+#~ msgid "Agregar"
+#~ msgstr "Add"
+
+#~ msgid "here1"
+#~ msgstr "aquiss"
+
+#, fuzzy
+#~ msgid "postitsso"
+#~ msgstr "postayarada"
+
+#~ msgid "postito"
+#~ msgstr "posteard"
